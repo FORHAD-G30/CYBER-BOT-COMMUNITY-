@@ -9,12 +9,12 @@
   "PREFIX": "-",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "61554172591838"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "61554172591838"
   ],
-  "OWNER": ["100075122837809"],
+  "OWNER": ["61554172591838"],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "Don’t change owner uid or author name"
